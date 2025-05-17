@@ -4,7 +4,7 @@ Hi 👋 My name is Stellah Rotich
 Software Engineer
 -----------------
 
-I am a Software Engineer| Business Analyst, I do my work mainly in Python, SQL and Java. 
+I am a Software Engineer | Business Analyst, I do my work mainly in Python, SQL and Java. 
 
 *   🌍  I'm based in Nairobi, Kenya
 *   ✉️  You can contact me at [codestarlet@gmail.com](mailto:codestarlet@gmail.com)
